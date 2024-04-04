@@ -1,0 +1,29 @@
+.contenar{
+          width: 50%;
+          height: 500px;
+          background-color: aqua;
+          border-radius: 10px;
+          margin-left: 25%;
+          
+         
+      
+        
+}
+
+.stopwatch {
+          text-align: center;
+          padding-top: 90px;
+        
+      }
+      
+      #display {
+          font-size: 2em;
+          margin-bottom: 10px;
+      }
+      
+      button {
+          margin: 5px;
+          padding: 10px 20px;
+          font-size: 1em;
+      }
+      
